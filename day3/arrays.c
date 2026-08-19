@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <assert.h>
 
 int sum(int arr[], int size) {
 	int total = 0;
@@ -31,5 +32,9 @@ int main() {
 		printf("Pointer Value: %p\n", output);
 		printf("Integer Value: %d\n", *output); // Should be 3
 	}
+    
+    int nums[] = {1,2,3,4,5};
+    assert(sum(nums, 5) == 16);
+
 	return 0;
 }
