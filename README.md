@@ -7,3 +7,4 @@ Pre Class Practice for C/Unix/Git
 - D3: arrays, strings, string immunitability, pipes
 - D4: grep, find, strings continued, assert tests
 - D5: filesystem, malloc, permissions, vim cont., strings
+- D6: vim copy paste, header implementation, file I/O
