@@ -8,3 +8,4 @@ Pre Class Practice for C/Unix/Git
 - D4: grep, find, strings continued, assert tests
 - D5: filesystem, malloc, permissions, vim cont., strings
 - D6: vim copy paste, header implementation, file I/O
+- D7: C docs, history, shells, 2D Arrays, Practice
