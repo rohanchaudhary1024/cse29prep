@@ -10,4 +10,5 @@ Below are a variety of different exercises, ranging from basic fundamentals of C
 - D5: filesystem, malloc, permissions, vim cont., strings
 - D6: vim copy paste, header implementation, file I/O
 - D7: C docs, history, shells, 2D Arrays, Practice
-- D8: Coding Practice, Bash Scripts, Algorithms
+- D8: coding Practice, bash scripts, algorithms
+- D9: symlinks, git collab, advanced grep, branches
