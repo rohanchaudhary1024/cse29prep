@@ -9,4 +9,6 @@ int replace_char(char *s, char find, char rep);
 Returns 1 if one was removed, 0 otherwise. */
 int trim_newline(char *s);
 
+int str_index(char *haystack, char *needle);
+
 #endif

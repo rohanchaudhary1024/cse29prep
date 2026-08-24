@@ -9,3 +9,4 @@ Pre Class Practice for C/Unix/Git
 - D5: filesystem, malloc, permissions, vim cont., strings
 - D6: vim copy paste, header implementation, file I/O
 - D7: C docs, history, shells, 2D Arrays, Practice
+- D8: Coding Practice, Bash Scripts, Algorithms

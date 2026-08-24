@@ -27,3 +27,27 @@ int trim_newline(char *s) {
 	}
 	return 0;
 }
+
+int str_index(char *haystack, char *needle) {
+	int index = -1;
+	int tindex = -1;
+	int count = 0;
+	for (int i = 0; i < strlen(haystack); i++) {
+		if (strlen(haystack) <= count) {
+			break;
+		}
+		if (haystack[i] == needle[count]) {
+			if (count == 0) {
+				tindex = i;
+			}
+			if (count == strlen(needle)-1) {
+				index = tindex;
+				return index;
+			}
+
+			count += 1;
+		}
+	}
+	return index;
+
+}
