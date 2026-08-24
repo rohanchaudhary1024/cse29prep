@@ -12,6 +12,11 @@ int main(void) {
 	assert(str_index("hello world", "") == -1);
 	assert(str_index("aaa", "aa") == 0);
 
-	printf("str_index: 8 tests passed\n");
+    assert(str_index("hello", "llohe") == -1);
+    assert(str_index("hello", "hello") == 0);
+    assert(str_index("abcabc", "cab") == 2);
+    assert(str_index("hello world", "o w") == 4);
+
+	printf("str_index: all tests passed\n");
 	return 0;
 }
