@@ -28,6 +28,8 @@ int trim_newline(char *s) {
 	return 0;
 }
 
+/* Haystack Needle Problem */
+
 int str_index(char *haystack, char *needle) {
 	int index = -1;
 	int tindex = -1;
