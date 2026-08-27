@@ -12,3 +12,4 @@ Below are a variety of different exercises, ranging from basic fundamentals of C
 - D7: C docs, history, shells, 2D Arrays, Practice
 - D8: coding Practice, bash scripts, algorithms
 - D9: symlinks, git collab, advanced grep, branches
+- D10: git branches, tags, undo, merging, advanced vim
