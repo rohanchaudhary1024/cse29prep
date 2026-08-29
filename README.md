@@ -13,3 +13,4 @@ Below are a variety of different exercises, ranging from basic fundamentals of C
 - D8: coding Practice, bash scripts, algorithms
 - D9: symlinks, git collab, advanced grep, branches
 - D10: git branches, tags, undo, merging, advanced vim
+- D11: structs. mainly just structs. lots of practice.
