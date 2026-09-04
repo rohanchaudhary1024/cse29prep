@@ -15,3 +15,4 @@ Below are a variety of different exercises, ranging from basic fundamentals of C
 - D10: git branches, tags, undo, merging, advanced vim
 - D11: structs. mainly just structs. lots of practice.
 - D12: lots of string practice. wordcount struct problem.
+- D13: hexdump, debugger, miscellanious
